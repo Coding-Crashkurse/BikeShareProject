@@ -6,6 +6,6 @@
 
 1. `git clone https://github.com/Data-Mastery/BikeShareProject.git`
 2. `cd BikeShareProject`
-3. `Python explorbikes.py`
+3. `python explore_bikes.py`
 
 Have fun :-)
