@@ -309,7 +309,7 @@ def main():
                 "No data available for the selected filter options. Please select other filters!"
             )
 
-        restart = input("\nWould you like to restart? Enter yes or no.")
+        restart = input("Would you like to restart? Enter yes or no.")
         if restart.lower() != "yes":
             break
 
